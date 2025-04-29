@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hhhhhhghdkjjpjwpo
 jndjkdndkjhhuiuoi3
+=======
+>>>>>>> parent of a5c9050 (Add text2)
